@@ -1,5 +1,5 @@
-from fastai.vision import *
-from fastai.callbacks.hooks import *
+from fastai.vision import open_image
+# from fastai.callbacks.hooks import *
 
 if __name__ == "__main__":
     path = 'data/captures'
